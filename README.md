@@ -1,9 +1,11 @@
 ## Translation Service
 The purpose of this service is to provide the translations 
-* Get all translation for a specific locale 
+* Get all translation
 * Get translation for a specific key 
-* Get translation for a specific key for specific gender
 * Get translation by replacing the provided strings in the message
+* Add a new translation
+* Update a translation 
+
 
 
 ### Accessing H2 console
